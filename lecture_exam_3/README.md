@@ -15,7 +15,7 @@ The system consists of the following components:
 
 ## Architecture Diagram
 
-[![Alt text](image link)](https://github.com/anhminh10a2hoa/web-development-2-architecting-assignment/blob/master/lecture_exam_3/images/architecture_diagram.png)
+![Alt text](https://github.com/anhminh10a2hoa/web-development-2-architecting-assignment/blob/master/lecture_exam_3/images/architecture_diagram.png)
 
 ## Implementation Details
 
